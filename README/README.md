@@ -79,12 +79,13 @@ python shader_playroom.py -m output/drjohnson
 ## Qualitative Results
 
 ### 1. 7scenes
-
-<img src=".\res1.png#pic_center" alt="res1" style="zoom: 60%;" />
+<div align=center>
+<img src=".\res1.png" alt="res1" style="zoom: 60%;" />
+</div>
 
 ### 2. 12scenes
 
-<img src=".\res2.png" alt="res2" style="zoom: 20%;" />
+<img src=".\res2.png" alt="res2" style="zoom: 60%;" />
 
 ### 3. Deep Blending
 
