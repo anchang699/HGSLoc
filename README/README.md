@@ -80,7 +80,7 @@ python shader_playroom.py -m output/drjohnson
 
 ### 1. 7scenes
 
-<img src=".\res1.png" alt="res1" style="zoom: 60%;" align="middle" />
+<img src=".\res1.png#pic_center" alt="res1" style="zoom: 60%;" />
 
 ### 2. 12scenes
 
