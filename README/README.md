@@ -10,7 +10,7 @@
 
 ​	Our method mitigates the dependence on complex neural network models while demonstrating improved robustness against noise and higher localization accuracy in challenging environments, as compared to neural network joint optimization strategies.
 
-<img src=".\noise.png" alt="noise" style="zoom: 80%;" />
+<img src=".\noise.jpg" alt="noise" style="zoom: 80%;" />
 
 ## Dataset
 
@@ -84,7 +84,7 @@ python shader_playroom.py -m output/drjohnson
 
 ### 2. 12scenes
 
-<img src=".\res2.png" alt="res2" style="zoom: 60%;" />
+<img src=".\res2.png" alt="res2" style="zoom: 40%;" />
 
 ### 3. Deep Blending
 
