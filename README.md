@@ -92,7 +92,10 @@ python shader_playroom.py -m output/drjohnson
 
 ### 3. Deep Blending
 <div align=center>
+  Indoor Scene
 <img src="./README/res3.png" alt="res3" style="zoom: 60%;" width="550px" />
+  Outdoor Scene
+<img src="./README/res4.png" alt="res3" style="zoom: 60%;" width="550px" />
 </div>
 
 
