@@ -1,5 +1,5 @@
 # HGSLoc: 3DGS-based Heuristic Camera Pose Refinement
-Our paper is accepted on \symbf{ICRA 2025}.
+Our paper is accepted on **ICRA 2025**.
 ## Overview
 
 ​	We propose HGSLoc, a novel lightweight visual localization frame work, which integrates 3D reconstruction and heuristic strategy to refine further poses with higher precision. We introduce an explicit geometric map for 3D representation and rendering, which provides a new synthesis view of high-quality images for visual localization. We introduce a heuristic refinement strategy, its efficient optimization capa bility can quickly locate the target node, while we set the step level optimization step to enhance the pose accuracy in the scenarios with small errors.
